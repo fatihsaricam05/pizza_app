@@ -1,0 +1,12 @@
+C:\Users\fatih\Desktop\öğrenme 1\öğrenme 1\bin\Debug\öğrenme 1.exe.config
+C:\Users\fatih\Desktop\öğrenme 1\öğrenme 1\bin\Debug\öğrenme 1.exe
+C:\Users\fatih\Desktop\öğrenme 1\öğrenme 1\bin\Debug\öğrenme 1.pdb
+C:\Users\fatih\Desktop\öğrenme 1\öğrenme 1\obj\Debug\öğrenme 1.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\öğrenme 1\öğrenme 1\obj\Debug\öğrenme 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatih\Desktop\öğrenme 1\öğrenme 1\obj\Debug\öğrenme_1.Form1.resources
+C:\Users\fatih\Desktop\öğrenme 1\öğrenme 1\obj\Debug\öğrenme_1.Properties.Resources.resources
+C:\Users\fatih\Desktop\öğrenme 1\öğrenme 1\obj\Debug\öğrenme 1.csproj.GenerateResource.cache
+C:\Users\fatih\Desktop\öğrenme 1\öğrenme 1\obj\Debug\öğrenme 1.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\öğrenme 1\öğrenme 1\obj\Debug\öğrenme 1.exe
+C:\Users\fatih\Desktop\öğrenme 1\öğrenme 1\obj\Debug\öğrenme 1.pdb
+C:\Users\fatih\Desktop\öğrenme 1\öğrenme 1\obj\Debug\öğrenme_1.sipariş_formu.resources
